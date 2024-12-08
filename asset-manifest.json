@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/11silent.github.io/static/css/main.cfecca63.css",
+    "main.js": "/11silent.github.io/static/js/main.e9ec1f74.js",
+    "index.html": "/11silent.github.io/index.html",
+    "main.cfecca63.css.map": "/11silent.github.io/static/css/main.cfecca63.css.map",
+    "main.e9ec1f74.js.map": "/11silent.github.io/static/js/main.e9ec1f74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfecca63.css",
+    "static/js/main.e9ec1f74.js"
+  ]
+}
